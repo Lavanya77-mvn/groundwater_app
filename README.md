@@ -1,6 +1,6 @@
-# 🌊 BHU-JALAN (SIH Project)
+# NGLMS
 
-Bharat Hydro Underground Jal Analytics Network — a groundwater sustainability analytics platform.
+national groundwater level monitoring system
 
 ---
 
